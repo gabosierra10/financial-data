@@ -1,6 +1,6 @@
 # financial-data
 Matplotlib basic practice problem.  
-Write a Python program to draw line charts of the financial data of Alphabet Inc. between October 3, 2016 to October 7, 2016. Go to the editor
+Write a Python program to draw line charts of the financial data of Alphabet Inc. between October 3, 2016 to October 7, 2016.   Go to the editor
 Sample Financial data (fdata.csv):  
 Date,Open,High,Low,Close  
 10-03-16,774.25,776.065002,769.5,772.559998  
