@@ -41,7 +41,7 @@ plt.plot(dates, high, label = 'High')
 plt.plot(dates, low, label = 'Low')
 
 #Set Title
-plt.title('Stock Values for Hypothetical Company')
+plt.title('Stock Values for Alphabet Inc.')
 
 #Style
 plt.style.use('dark_background')
